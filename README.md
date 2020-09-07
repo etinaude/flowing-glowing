@@ -1,3 +1,3 @@
-# flowing-glowing
+# Flowing Glowing
 
-this is an arduino project to create an illution of water flowing backwards or staying still with stobe lights and a pump, i will be using quinine (tonic water) and UV lights to cause it to glow as well.
+This is an arduino project to create an illution of water flowing backwards or staying still using a stobe lights and a pump, I will be using tonic water which contains quinine (a bio-luminescent) and UV lights to cause it to glow as well, hense the name flowing glowing or the alias glowing flowing
